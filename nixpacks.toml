@@ -2,4 +2,4 @@
 setup = "pip install -r requirements.txt"
 
 [start]
-cmd = "python wavesongBot.py"
+cmd = "python app.py"
